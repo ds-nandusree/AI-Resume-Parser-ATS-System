@@ -139,6 +139,8 @@ PDF Report Generation
 
 ![Dashboard](screenshots/dashboard.png)
 
+<img width="1085" height="574" alt="dashboard" src="https://github.com/user-attachments/assets/18f1ea89-ea61-458b-bd73-a7910ce2efbb" />
+
 ### Resume Parsing & Candidate Analysis
 
 ![Resume Parser](screenshots/resume_parser.png)
