@@ -4,7 +4,9 @@ An intelligent recruitment assistance platform that automates resume screening u
 
 The system extracts candidate information from resumes, identifies technical skills, evaluates job-description compatibility, performs semantic skill matching, analyzes skill gaps, generates ATS scores, and produces downloadable PDF reports for recruiters and job seekers.
 
----
+## 🌐 Live Demo
+
+**Application:** https://ai-resume-parser-ats-system-fbs6ozg98uruuuokzxqovo.streamlit.app/
 
 ## 🎯 Problem Statement
 
