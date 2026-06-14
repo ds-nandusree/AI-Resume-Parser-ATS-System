@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+sentence-transformers
+pdfplumber
+plotly
+reportlab
+joblib
+torch
