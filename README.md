@@ -137,19 +137,16 @@ PDF Report Generation
 
 ### ATS Dashboard
 
-![Dashboard](screenshots/dashboard.png)
 
 <img width="1085" height="574" alt="dashboard" src="https://github.com/user-attachments/assets/18f1ea89-ea61-458b-bd73-a7910ce2efbb" />
 
 ### Resume Parsing & Candidate Analysis
 
-![Resume Parser](screenshots/resume_parser.png)
 
 <img width="1039" height="446" alt="resume_parser" src="https://github.com/user-attachments/assets/b802ebe6-4628-43ab-967a-d7fdd3916ef3" />
 
 ### ATS PDF Report
 
-![PDF Report](screenshots/pdf_report.png)
 
 <img width="527" height="248" alt="pdf_report" src="https://github.com/user-attachments/assets/40318d2d-c51e-4d37-99c3-aa8ec270e84f" />
 
